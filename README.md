@@ -25,6 +25,6 @@ The Recipe App built using Flutter obviously has a main.dart file to intiate the
 
 # UI of the APP
 Finally, here it comes😎😎
-![image](https://user-images.githubusercontent.com/81528176/174485420-e815ef2c-16cb-4fd0-8f4f-dc3845fc0af6.png)
+![Screenshot (850)](https://user-images.githubusercontent.com/81528176/174485447-8b2d30ba-4890-4941-8243-38345c136db4.png)
 
 
