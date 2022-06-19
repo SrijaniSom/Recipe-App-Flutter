@@ -23,3 +23,8 @@ HTTP, Convert
 # Basic workflow
 The Recipe App built using Flutter obviously has a main.dart file to intiate the execution process. The first call goes to the home.dart file. Over here, simply the loading state is checked. In case, the async function is done with the processing, the list view is built. From here itslef, the vales are sent to the class RecipeCard.dart. Each card is individually instantiated and returned. Again, we have the model class Recipe.api.dart to communicate between the web server and the app. We have the Recipe.dart file to handle the JSON request.
 
+# UI of the APP
+Finally, here it comes😎😎
+![image](https://user-images.githubusercontent.com/81528176/174485420-e815ef2c-16cb-4fd0-8f4f-dc3845fc0af6.png)
+
+
